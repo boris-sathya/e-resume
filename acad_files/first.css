@@ -1,0 +1,182 @@
+/*
+first.css -- css stylesheet for shakthimaan.com
+
+Copyright (C) 2007 Shakthi Kannan
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+   
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+   
+*/
+
+.links {
+	font-family: "Bitstream Vera Sans", sans-serif; 
+	text-align: right;
+	padding-right: 2px;
+}
+
+a.links {
+	text-decoration: none;
+}
+
+.header {
+	background-color: #90C;
+	height: 25px;
+	padding: 2px;
+	color: white;
+}
+
+.code {
+	color: black;
+	font-weight: bold;
+	background-color: #d4cfcb;
+	border: 1px dashed #3399ff;
+	padding: 5px;
+	margin-left: 20px;
+}
+
+.instcode {
+	color: black;
+	font-weight: bold;
+	background-color: #d4cfcb;
+	border: 1px dashed #3399ff;
+	padding: 5px;
+}
+
+.linstcode {
+	color: black;
+	font-weight: bold;
+	background-color: #d4cfcb;
+	border: 1px dashed #3399ff;
+	padding: 5px;
+	width: 550px;
+}
+
+.menu {
+	font-weight: bold;
+	text-align: right;
+	font-size: 10px;
+	border: 1px dashed #3399ff;
+	padding: 10px;
+	float: right;
+	margin-top: 10px;
+}
+
+.footer {
+	font-family: "Bitstream Vera Sans", sans-serif; 
+	padding: 5px;
+	text-align: center;
+	font-size: small;
+	color: #b7a5df;
+}
+
+.dedication {
+        font-style: italic;
+        text-align: center;
+}
+
+.mainfooter {
+	font-family: "Bitstream Vera Sans", sans-serif; 
+	padding: 5px;
+	text-align: center;
+	font-size: small;
+	color: #b7a5df;
+	margin-top: 120px;
+}
+
+.trademark {
+	font-family: courier, "Bitstream Vera Sans", sans-serif; 
+	text-align: right;
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 20px; 
+	margin-left: 100px;
+	margin-bottom: 30px;
+	right: 140px;
+	position: absolute;
+	color: black;
+}
+
+.titlemark {
+	font-family: courier, "Bitstream Vera Sans", sans-serif; 
+	text-align: right;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 15px; 
+	margin-bottom: 30px;
+	right: 90px;
+	position: absolute;
+	color: black;
+}
+
+
+.company {
+	font-family: "Bitstream Vera Sans", sans-serif; 
+	font-size: 22px;
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: 0px;
+	color: gray;
+}
+
+.lang {
+	font-size: 10px;
+	margin-top: 1px;
+}
+
+.subtitle {
+	font-size: 17px;
+	color: gray;
+}
+
+.u {
+	text-decoration: underline;
+}
+
+.shifted {
+	margin-left: 20px;
+
+}
+
+table {
+	border: thin solid black;
+	width: 75%;
+	margin-bottom: 20px;
+}
+
+.lcol {
+	width: 125px;
+}
+
+.maintext {
+	font-size: 18px;
+	margin-left: 420px;
+	margin-top: -360px;
+}
+
+.addedtext {
+	font-size: 18px;
+	margin-left: 420px;
+}
+
+.gsearch {
+	margin-left: 420px;
+}
+
+.gads {
+	float: right;
+}
+
+.imageloc {
+	margin-top: -10px;
+}
+
+#reverse { list-style-type: none }
